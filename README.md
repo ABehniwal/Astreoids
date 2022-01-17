@@ -5,11 +5,12 @@ This game is based on the original version of Asteroids.
 
 Created by Amanbir Behniwal
 
+## Controls
 In this game, like asteroids, the player starts in the middle and can 
-    - move forward using the forward arrow key
-    - rotate right using the right arrow key
-    - rotate left using the left arrow key
-    - shoot a bullet by pressing the space bar (a max of 6 bullets can be on the screen at a time)
+- move forward using the forward arrow key
+- rotate right using the right arrow key
+- rotate left using the left arrow key
+- shoot a bullet by pressing the space bar (a max of 6 bullets can be on the screen at a time)
     
 ## Description
 The objective of the game is to rack up as many points as possible until you die. Points can be accumulated by 
