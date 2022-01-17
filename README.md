@@ -1,9 +1,9 @@
 # Astreoids
 Simple Game Assignment for ICS 4U
 
-This game is based on the original version of Asteroids.
-
 Created by Amanbir Behniwal
+
+This game is based on the original version of Asteroids. To run the game, you must download a Java IDE and run Main.java in Asteroids/Astreoids/src/Main.java
 
 ## Controls
 In this game, like asteroids, the player starts in the middle and can 
